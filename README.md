@@ -23,7 +23,7 @@ LawLinker, your trusted legal service provider. With our experienced team of att
   
 # Installation
 
-To get started with PushtakAdda, follow these steps:
+To get started with LawLinker, follow these steps:
 1. Clone the repository
 2. To run frontend:
    + run cd Client

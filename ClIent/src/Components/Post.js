@@ -1,6 +1,6 @@
 import React from 'react'
-import user from "./user.png"
-import postimg from "./postimg.jpeg"
+import user from "../Images/user.png"
+import postimg from "../Images/postimg.jpeg"
 function Post() {
   return (
     <div>
